@@ -1,4 +1,6 @@
 # AUTOMATED-MARKET-OPENING-SCHEDULER
+Implementation of the paper "Segregation of Heterogeneous Units in a Swarm of Robotic Agents" Authors-Manish Kumar; Devendra P. Garg; Vijay Kumar
+
 In the problem, we have been given 'n' types of shops and 'm' market places which can be opened parallely. In a market place during
 each time slot the 'k' types of shops can be opened. and for each market there are a total of 'T' time slots available.
 
